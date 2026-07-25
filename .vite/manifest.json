@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/game/GameClient.tsx": {
-    "file": "assets/GameClient-DlnPChM0.js",
+    "file": "assets/GameClient-BsQKemw4.js",
     "name": "GameClient",
     "src": "app/game/GameClient.tsx",
     "isDynamicEntry": true,
@@ -21,6 +21,8 @@
       "_framework-DjPHiq1u.js"
     ],
     "dynamicImports": [
+      "node_modules/three/examples/jsm/loaders/GLTFLoader.js",
+      "node_modules/three/examples/jsm/utils/SkeletonUtils.js",
       "node_modules/three/build/three.module.js"
     ]
   },
@@ -30,8 +32,26 @@
     "src": "node_modules/three/build/three.module.js",
     "isDynamicEntry": true
   },
+  "node_modules/three/examples/jsm/loaders/GLTFLoader.js": {
+    "file": "assets/GLTFLoader-aDyC2Eh3.js",
+    "name": "GLTFLoader",
+    "src": "node_modules/three/examples/jsm/loaders/GLTFLoader.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/three/build/three.module.js"
+    ]
+  },
+  "node_modules/three/examples/jsm/utils/SkeletonUtils.js": {
+    "file": "assets/SkeletonUtils-B4a8SDTG.js",
+    "name": "SkeletonUtils",
+    "src": "node_modules/three/examples/jsm/utils/SkeletonUtils.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/three/build/three.module.js"
+    ]
+  },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-DP-s14hQ.js",
+    "file": "assets/layout-segment-context-CGVNN0kf.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -42,7 +62,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-qpDDEefu.js",
+    "file": "assets/index-30-HJph6.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
