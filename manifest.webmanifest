@@ -1,0 +1,13 @@
+{
+  "name": "古树守望 · 四境之战",
+  "short_name": "古树守望",
+  "description": "原创奇幻 2.5D 英雄塔防游戏",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#14251f",
+  "theme_color": "#14251f",
+  "icons": [
+    { "src": "/icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
